@@ -1,4 +1,4 @@
-resource "random_string" "random_string" {
+resource "random_password" "random_password" {
   length           = var.length
   upper            = var.upper
   min_upper        = var.min_upper
