@@ -30,7 +30,7 @@ _Identical to_ **_random\_string_** _with the exception that the result is treat
 
 ## _Prerequisites_
 
-_This module needs_ **_Terraform 0.12.23** _or newer._
+_This module needs_ **_Terraform 0.12.23_** _or newer._
 _You can download the latest Terraform version from_ [_here_](https://www.terraform.io/downloads.html).
 
 _This module deploys aws services details are in respective feature branches._
