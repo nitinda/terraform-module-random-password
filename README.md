@@ -23,8 +23,6 @@ _Terraform module for_ **_Random Password_**
 
 _This module may be used to create_ **_Random String_** _resources in ....._
 
-_The resource **_random\_string_** generates a random permutation of alphanumeric characters and optionally special characters._
-
 _Identical to_ **_random\_string_** _with the exception that the result is treated as sensitive and, thus, not displayed in console output._
 
 
